@@ -12,7 +12,7 @@ The project includes text preprocessing, tokenization, fine-tuning, and evaluati
 - **Text Preprocessing**: Text data is cleaned, removing punctuation, numbers, and stop words. Additionally, lemmatization and lowercasing are applied to enhance data quality.
 
 - **Tokenization**: The BERT model tokenizes text data, allowing it to represent words and subwords efficiently.
-- 
+
 -  **Fine-Tuning**: A pre-trained BERT model is fine-tuned on airline tweet data for sentiment analysis.
 
 - **Evaluation**: Model performance is assessed on a test dataset, demonstrating its ability to generalize to new, unseen data.
